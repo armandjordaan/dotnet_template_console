@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Armand Jordaan",
+    "classifications": ["Common", "Console"],
+    "identity": "NeoSystems.ConsoleTemplate.CSharp",
+    "name": "Armand Jordaan Console App Template",
+    "shortName": "ajconsole",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "ConsoleTemplate"
+}
